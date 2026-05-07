@@ -2,6 +2,8 @@
 
 A small project to digitize and modernize Grothendieck’s SGA and possibly EGA series.
 
+---
+
 ### Table of Contents
 
-``SGA 1''
+`SGA 1` 
