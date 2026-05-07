@@ -1,3 +1,3 @@
 # Séminaire de Géométrie Algébrique du Bois Marie
 
-Small project of digitalizing Grothendieck's SGA series
+A small project to digitize and modernize Grothendieck’s SGA and possibly EGA series.
