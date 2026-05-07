@@ -1,1 +1,1 @@
-# Seminaire_de_Geometrie_Algebrique
+# Séminaire de Géométrie Algébrique du Bois Marie
