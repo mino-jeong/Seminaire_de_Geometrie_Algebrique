@@ -12,7 +12,6 @@ A small project to digitize and modernize Grothendieck’s SGA series, and possi
   - **SGA 3A** — *Schémas en groupes, Tome I* (Springer LNM 151)
   - **SGA 3B** — *Schémas en groupes, Tome II* (Springer LNM 152)
   - **SGA 3C** — *Schémas en groupes, Tome III* (Springer LNM 153)
-
 - **SGA 4** — *Théorie des topos et cohomologie étale des schémas*
   - **SGA 4A** — *Tome I*  
     (Springer LNM 269)
